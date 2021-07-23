@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    padding:0;
+    text-align:center;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display:flex;
+    justify-content: flex-end;
+    font-size:24px;
+  }
+  li{
+    margin-right:20px;
+  }
+  #nav-bar{
+    position:fixed;
+    width:100%;
+    top:0;
+    background-color:red;
+  }
+  #welcome-section{
+    height:100%;
+  }
